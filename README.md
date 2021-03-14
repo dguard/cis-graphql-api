@@ -29,26 +29,17 @@
 
 [DEMO](https://api.graphql.cis.digitallyconstructed.ru/graphql)
 
-### CIS
-
-[API](https://github.com/dguard/cis-api)
-
-[Frontend](https://github.com/dguard/cis-front)
-
-[Worker](https://github.com/dguard/cis-worker)
-
-### CIS Webhook
-
-[Webhook API](https://github.com/dguard/cis-webhook-api)
-
-[Webhook Worker](https://github.com/dguard/cis-webhook-worker)
-
-[Consumer Webhook](https://github.com/dguard/cis-consumer-webhook)
-
-### \>CIS Graphql
-
-\>Graphql API
-
+| Service | Repo |
+| --- | --- |
+| API 📦 | [cis-api](https://github.com/dguard/cis-api) |
+| Frontend 📦 | [cis-front](https://github.com/dguard/cis-front) |
+| Worker 📦 | [cis-worker](https://github.com/dguard/cis-worker) |
+|  📦 |  |
+| Webhook API 🐍| [cis-webhook-api](https://github.com/dguard/cis-webhook-api) |
+| Webhook Worker 🐍| [cis-webhook-worker](https://github.com/dguard/cis-webhook-worker) |
+| Consumer Webhook 🐍| [cis-consumer-webhook](https://github.com/dguard/cis-consumer-webhook) |
+|  📦 |  |
+| Graphql API 🐍| cis-graphql-api (you are inside) |
 
 ## Installation
 
